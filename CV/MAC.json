@@ -1,0 +1,120 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Yago",
+      "surnames": "Cousiño",
+      "title": "fgefdgdfbgetbhtg",
+      "description": "sdgrsfgregrwdvsdwfgregrt",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/6b5d6994-7dff-46bc-9cf4-45411d183b97_foto-perfil-yago.jpg",
+        "alt": "Foto Perfil Yago.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    }
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "AR",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "yago.test4@getmanfred.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "697848499",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ]
+  }
+}
