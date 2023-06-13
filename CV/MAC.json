@@ -95,6 +95,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Account Executive",
         "Backend Developer",
