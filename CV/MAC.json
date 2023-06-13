@@ -107,6 +107,10 @@
         {
           "name": "Apple macOS",
           "type": "technology"
+        },
+        {
+          "name": "HoudiniFX",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
