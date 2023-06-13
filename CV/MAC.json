@@ -113,6 +113,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "Centos",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Account Executive",
         "Backend Developer",
