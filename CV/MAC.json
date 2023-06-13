@@ -22,6 +22,30 @@
       }
     }
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "dsxgsdvgfgv",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/0dcd445e-ec05-4c7f-986e-b71b88b11d90_manfred-logo.jpg",
+            "alt": "Manfred Logo.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Puesto de prueba para GitHub",
+            "startDate": "2011-06-01",
+            "challenges": [
+              {
+                "description": "Puesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHubPuesto de prueba para GitHub"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
