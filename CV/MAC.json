@@ -115,6 +115,10 @@
       ],
       "discardedCompetences": [
         {
+          "name": "CMS",
+          "type": "technology"
+        },
+        {
           "name": "CMake",
           "type": "technology"
         },
