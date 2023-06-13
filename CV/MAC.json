@@ -115,7 +115,15 @@
       ],
       "discardedCompetences": [
         {
+          "name": "CMake",
+          "type": "technology"
+        },
+        {
           "name": "Centos",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
           "type": "technology"
         }
       ],
