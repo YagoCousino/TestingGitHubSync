@@ -99,6 +99,14 @@
         {
           "name": ".Net Core",
           "type": "technology"
+        },
+        {
+          "name": "ActiveCampaign",
+          "type": "technology"
+        },
+        {
+          "name": "Apple macOS",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
