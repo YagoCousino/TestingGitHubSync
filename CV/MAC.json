@@ -6,24 +6,216 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Name",
-      "surnames": "Surnames",
-      "title": "Title",
-      "description": "sdgrsfgregrwdvsdwfgregrt",
-      "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/6b5d6994-7dff-46bc-9cf4-45411d183b97_foto-perfil-yago.jpg",
-        "alt": "Foto Perfil Yago.jpg"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
-        "country": "España",
-        "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
-      }
+      "name": "Yago",
+      "surnames": "Cousiño",
+      "title": "Manfred / Co-Founder at The Wing",
+      "description": "As a Product Manager, I am passionate about creating digital products that connect people and businesses with common goals, interests, and values. In 2018, I began my journey at Manfred as part of a team of two and a half people. In 2020, with a team of seven people, we sold the company to Sngular to take it to new heights. During my time at Manfred, I had the opportunity to work in sales, internal hiring, and operations, which helped me understand how to make a company profitable.\n\nAdditionally, in 2017, I founded The Wing with the goal of establishing a new standard in sports journalism. I learned a lot about the industry and myself during this experience. Currently, I continue to work in the sports field alongside the team at La Media Inglesa, a media outlet about English football that has multiplied its revenue fivefold in two years.\n\nI am always looking for opportunities to connect with the technical community and stay up-to-date on the latest trends. I have organized events such as NOSDay, Cañas A La Madrileña, and TarugoConf."
     }
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "Product Manager",
+            "startDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Since the creation of Manfred, we wanted to make a true impact in technical recruiting, and do it through digital products. Therefore, we faced the challenge of transitioning from a service company to a hybrid one while maintaining the quality of our processes.\n\nTo achieve this, we grew from a team of around 15 people to one of over 40, stabilizing the hiring between product and services. The same values were at the core of Manfred, and we made sure they remained so despite the growth.\n\nIn Product, we built a team from scratch with the following objectives:\n\nCreate our own technology to have the largest active candidate base in our niche in Spain.\n-Provide recruiting teams with tools to improve their work and automate processes.\n-Build an instrumentation system using Segment and Amplitude to make informed decisions and be efficient with our resources.\n-Become the default tool companies turn to for sourcing candidates.\n\nCreating a green field product, we were able to increase the size of our database tenfold in 3 years, reaching 30,000. We improved the processes of the recruiting team and increased their productivity in a context of greater complexity, while establishing an actionable data dashboard.\n\nFurthermore, we employed a continuous value delivery approach under which we are deploying and delivering improvements to our users frequently (almost) weekly, keeping technical debt under control."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Media Inglesa"
+        },
+        "roles": [
+          {
+            "name": "Business Developer",
+            "startDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "Since the beginning of my tenure at La Media Inglesa, I have focused on creating a solid and profitable community that allows us to produce daily quality content on both YouTube and Twitch. \n\nIn the past three years, we have achieved one of the largest paid communities in the country, and since 2022, we have created a sports documentary production company that seeks to capture the most human and impactful side of football. One of the biggest challenges has been developing a revenue network practically from scratch and professionalizing the project. To achieve this, I have worked on generating different income sources and building relationships with sponsors, all with very limited resources. \n\nTo improve our strategic direction, we have eliminated inefficient processes and automated both organizational and web store processes, significantly improving the team's efficiency. Additionally, I introduced modern tools and work culture, such as Slack and Trello, to optimize coordination, reduce errors, and increase the effectiveness of a team that has grown from four people in 2020 to eight people currently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "Minority Partner - Scout - Operations - Business Development",
+            "startDate": "2018-11-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "As the first employee to join Manfred when we were just two and a half people and everything was uncharted territory, I had the honor of earning David Bonilla's trust. Our first challenge was to capitalize on inefficiencies in the technology recruitment sector, which treated people like numbers. While we had a clear understanding of our values and purpose, as well as the community of developers and companies that shared our objectives, we still needed to find an effective sales process.\n\nFrom the start, I sought to impact every aspect of our service design cycle and the \"architecture\" of \"no-code\" applications, which allowed us to create a 7-figure revenue machine in just a few months.\n\nFurthermore, I played a key role in growing our team from two full-time employees to 44 and still expanding. Initially, I focused on executing sales and creating flows that could be replicated across the team, before moving into Product and Training tasks.\n\n\"We went to war armed with teaspoons and survived.\"\n\nIn April 2020, amidst a pandemic, our company was acquired by Sngular, allowing us to continue growing and developing multiple digital products that had a real impact on Spain's technical community."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Wing .es"
+        },
+        "roles": [
+          {
+            "name": "Co Founder",
+            "startDate": "2017-06-01",
+            "finishDate": "2019-06-30",
+            "challenges": [
+              {
+                "description": "Co founder of The Wing, a content platform dedicated to inform and follow the NBA. In charge of duties related to marketing, sponsorships, webdesign and other tasks related to being part of the Board of Directors."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Start UC3M"
+        },
+        "roles": [
+          {
+            "name": "Vice President",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "My duties include representation of the association in events and gatherings and supporting the president in taking decisions and organizing our resources and teams"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Locomotora"
+        },
+        "roles": [
+          {
+            "name": "Telegraphist",
+            "startDate": "2017-04-01",
+            "finishDate": "2018-11-30",
+            "challenges": [
+              {
+                "description": "Involved in the Marketing and Business department in a dynamic environment, I participated in the creation of initial projects for La Locomotora, a venture-builder of digital projects. Among them, I was involved in the development of several retail portals for products made with a cutter and a laser printer, as well as a WordPress plugin project and a management portal for creative professionals' portfolios."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FAMAR"
+        },
+        "roles": [
+          {
+            "name": "Supply Chain Management Intern",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-03-31",
+            "challenges": [
+              {
+                "description": "Supporting the Customer Service and Procurement departments, especially focused on the destructions area. Also creating and testing the system of KPIs in the Supply Chain division.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Isigano.com"
+        },
+        "roles": [
+          {
+            "name": "Marketing and PR intern",
+            "startDate": "2016-07-01",
+            "finishDate": "2016-08-31",
+            "challenges": [
+              {
+                "description": "Digital Marketing intern: content creation and social media management; experience with Google Analytics; creation of a newsletter and search for new partnerships. In the offline events and promotion team.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SomosBasket-Despacho de Auerbach"
+        },
+        "roles": [
+          {
+            "name": "Podcast host and interviewer",
+            "startDate": "2015-06-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "Host and director of the biweekly podcast of El Despacho de Auerbach. Interviewer of different NBA personalities such as Jalen Rose, Kenneth Faried or Bruce Bowen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Start UC3M"
+        },
+        "roles": [
+          {
+            "name": "Blog Manager",
+            "startDate": "2015-05-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "Managing the Startuc3m blog, editor. Connector with the press and collaborator in the organization of different events."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Supreme Group"
+        },
+        "roles": [
+          {
+            "name": "Internship",
+            "startDate": "2014-05-01",
+            "finishDate": "2014-06-30",
+            "challenges": [
+              {
+                "description": "Involved in different departments, from Accounting to Inventory management, with emphasis in Sales and Logistic."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SomosBasket.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Editor",
+            "startDate": "2013-12-01",
+            "finishDate": "2015-02-28",
+            "challenges": [
+              {
+                "description": "Organización del equipo de redactores de Los Ángeles Clippers, redacción de distintas noticias y artículos de análisis tanto para Clippers como para la redacción de Boston Celtics."
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "dsxgsdvgfgv",
